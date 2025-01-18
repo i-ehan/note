@@ -74,3 +74,21 @@ https://github.com/dromara/dax-pay
 https://github.com/jeequan/jeepay
 (文档: https://www.jeequan.com/doc/detail_84.html)
 ```
+
+### mybatis
+
+```html
+文档地址: https://mybatis.org/mybatis-3/zh_CN/sqlmap-xml.html
+```
+
+### 微信支付Java版
+
+```html
+https://github.com/wechatpay-apiv3/wechatpay-java/wiki/SDK-%E9%85%8D%E7%BD%AE%E8%AF%A6%E8%A7%A3#%E5%95%86%E6%88%B7%E9%85%8D%E7%BD%AE
+```
+
+### AI
+
+```html
+在线免费: https://chat18.aichatos68.com
+```
