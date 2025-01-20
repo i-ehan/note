@@ -98,4 +98,7 @@ https://github.com/wechatpay-apiv3/wechatpay-java/wiki/SDK-%E9%85%8D%E7%BD%AE%E8
 ```html
 https://gemini-ming.github.io
 (https://github.com/gemini-ming/gemini-ming.github.io)
+
+https://java-family.cn
+(https://github.com/chenjiabing666/JavaFamily)
 ```
